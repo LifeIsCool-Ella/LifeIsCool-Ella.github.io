@@ -113,7 +113,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "hj99life"
+  name             : "Ella"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "IT 기술 블로그입니다."
   location         : "South Korea"
@@ -121,22 +121,23 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
+      #url: "mailto:hj99life@gmail.com"
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://lifeiscool-ella.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      #url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      #url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      #url: "https://github.com/lifeiscool-ella"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      #url: "https://instagram.com/"
 
 # Site Footer
 footer:
@@ -149,7 +150,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      #url: "https://lifeiscool-ella.github.io/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
