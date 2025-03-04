@@ -14,9 +14,11 @@ main:
 sidebar-category:
   - title: "카테고리"
     children:
-      - title: "python"
+      - title: "파이썬"
         url: "/categories/python"
-      - title: "book"
+      - title: "웹"
+        url: "/categories/web"
+      - title: "데이터베이스"
+        url: "/categories/database"
+      - title: "서적"
         url: "/categories/book"
-      - title: "카테고리C"
-        url: "/CategoryC"
